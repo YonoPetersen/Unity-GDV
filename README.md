@@ -34,10 +34,10 @@ In deze game zijn de volgende functionaliteiten geïmplementeerd:
 ### Enemy waarbij HP eraf gaat door een trigger!
 
 ![Opdracht Demo!](Gifs/gdv4.gif)
-[Healthbar](../gdv/Assets/Script/Healthbar.cs)
+[Healthbar](Assets/Script/Healthbar.cs)
 
 ## Opdracht 5!
 ### Weapon Switch!
 
 ![Opdracht Demo!](Gifs/gdv5.gif)
-[WeaponSwitch](../gdv/Assets/Script/WeaponScript.cs)
+[WeaponSwitch](Assets/Script/WeaponScript.cs)
