@@ -14,3 +14,17 @@ In deze game zijn de volgende functionaliteiten geïmplementeerd:
 - **Muntjes** – Verzamel munten om je score te verhogen.  
 - **Enemy** – Vijanden die damage doen tegen de speler. 
 - **Meerdere Wapens** – Wissel tussen verschillende wapens. Ik heb switch hiervoor gebruikt.
+
+
+## Opdracht 2!
+### Een draaiend muntje die je op pakt!
+
+![Opdracht Demo!](Gifs/gdv2.gif)
+
+## Opdracht 3!
+### Vallende bal die stuitert!
+
+## Opdracht 4!
+### Enemy waarbij HP eraf gaat door een trigger!
+
+![Opdracht Demo!](Gifs/gdv4.gif)
