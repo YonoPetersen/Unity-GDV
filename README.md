@@ -1,5 +1,8 @@
 # Mijn Game Project
 
+## Final Opdracht. Opdracht 6:
+
+
 ![Game Demo](Gifs/gdv.gif)
 
 Welkom bij mijn game project! Dit is een kleine demonstratie van wat ik heb gemaakt met Unity.  
@@ -15,6 +18,7 @@ In deze game zijn de volgende functionaliteiten geïmplementeerd:
 - **Enemy** – Vijanden die damage doen tegen de speler. 
 - **Meerdere Wapens** – Wissel tussen verschillende wapens. Ik heb switch hiervoor gebruikt.
 
+# Voorgaande opdrachten! >_<
 
 ## Opdracht 2!
 ### Een draaiend muntje die je op pakt!
@@ -28,3 +32,8 @@ In deze game zijn de volgende functionaliteiten geïmplementeerd:
 ### Enemy waarbij HP eraf gaat door een trigger!
 
 ![Opdracht Demo!](Gifs/gdv4.gif)
+
+## Opdracht 5!
+### Weapon Switch!
+
+![Opdracht Demo!](Gifs/gdv5.gif)
