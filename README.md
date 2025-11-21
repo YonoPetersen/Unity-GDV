@@ -48,4 +48,4 @@ In deze game zijn de volgende functionaliteiten geïmplementeerd:
 ### Arrays!
 
 ![Opdracht Demo!](Gifs/gdvarray.gif)
-[WeaponSwitch](Assets/Script/RandomItem.cs)
+[RandomItem](Assets/Script/RandomItem.cs)
