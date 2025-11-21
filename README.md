@@ -41,3 +41,11 @@ In deze game zijn de volgende functionaliteiten geïmplementeerd:
 
 ![Opdracht Demo!](Gifs/gdv5.gif)
 [WeaponSwitch](Assets/Script/WeaponScript.cs)
+
+# M2
+
+## Opdracht 1A!
+### Arrays!
+
+![Opdracht Demo!](Gifs/gdvarray.gif)
+[WeaponSwitch](Assets/Script/RandomItem.cs)
